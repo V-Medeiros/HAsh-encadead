@@ -1,0 +1,11 @@
+Semente: 1090
+Intervalo: 0 a 100000 (inclusive)
+Elementos armazenados: 1000
+Posicoes da matriz: 100
+Listas encadeadas geradas por colisao: 100
+Posicoes ocupadas: 100
+Posicoes vazias: 0
+Total de colisoes: 900
+Maior lista: posicao 62, com 17 elementos
+58462 -> 41862 -> 31662 -> 52962 -> 57562 -> 91362 -> 38262 -> 83762 -> 67862 -> 96662 -> 52562 -> 15462 -> 93262 -> 3762 -> 61662 -> 93662 -> 27962
+Tres ultimos valores inseridos por colisao: 28163, 20395, 33346
